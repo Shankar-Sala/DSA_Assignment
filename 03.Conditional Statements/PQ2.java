@@ -13,5 +13,5 @@ public class PQ2{
     else{
       System.out.println("You don't have a fever");
     }
-  }
+  } 
 }
